@@ -26,4 +26,12 @@ export default createGlobalStyle`
   body, input, button {
     font-family: 'Roboto', sans-serif;
   }
+
+  ul {
+    list-style: none;
+  }
+
+  button {
+    cursor: pointer;
+  }
 `;
